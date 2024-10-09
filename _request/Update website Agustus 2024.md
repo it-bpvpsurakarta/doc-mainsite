@@ -1,4 +1,5 @@
 1.	Perlu ditambahkan sub menu “Tugas dan Fungsi” di menu dropdown Profil BPVP (diatas Visi & Misi)
+![img1](_img/agustus2024/1.png)
  
 Narasi Tugas dan Fungsi :
 TUGAS DAN FUNGSI BPVP SURAKARTA 
