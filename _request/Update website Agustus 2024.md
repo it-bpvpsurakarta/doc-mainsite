@@ -18,13 +18,13 @@ c.	pelaksanaan fasilitasi pemagangan;
 d.	pelaksanaan sertifikasi kompetensi; 
 e.	pelaksanaan konsultansi pelatihan vokasi dan produktivitas; 
 f.	pelaksanaan peningkatan jejaring pelatihan vokasi dan produktivitas; 
-g.	pelaksanaan promosi dan pengukuran peningkatan produktivitas; 
+g.	pelaksanaan promosi dan pengukuran peningkatan produktivitas; cc
 h.	pelaksanaan pemantauan pelatihan vokasi dan produktivitas; 
 i.	pelaksanaan urusan organisasi dan sumber daya manusia aparatur, tata laksana, keuangan, rumah tangga, persuratan, kearsipan, perlengkapan, dan pengelolaan barang milik negara; dan 
 j.	penyusunan evaluasi dan pelaporan. 
 
 ----------------------------------------- ooo --------------------------------------------------
- 
+ ![img1](_img/agustus2024/2.png)
 1.	Logo twiter ganti logo tiktok, link nya ganti juga : www.tiktok.com/@bpvp_surakarta
 2.	Kotak merah diganti :
 LOKASI
@@ -37,7 +37,7 @@ Jl. Parangtritis Km.12,5 Bakulan Kulon, Patalan, Kec. Jetis, Bantul, DIY 55781
 
 ----------------------------------------- ooo --------------------------------------------------
 
-
+![img1](_img/agustus2024/3.png)
  
 Pada kotak perlu ditambahkan :
 JAM PELAYANAN 
@@ -54,10 +54,10 @@ PERMOHONAN INFORMASI PUBLIK  nge-link ke
 
  
 Revisi Menu PPID
- 
+![img1](_img/agustus2024/4.png)
 Dibuat seperti di bawah :
  	 
-	 
+![img1](_img/agustus2024/5.png)
  	 
 	
 
